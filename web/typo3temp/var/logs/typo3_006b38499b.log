@@ -1,0 +1,3 @@
+Sun, 04 Nov 2018 10:57:21 +0100 [WARNING] request="621294e8c5b13" component="TYPO3.CMS.Core.Utility.ExtensionManagementUtility": TYPO3\CMS\Core\Category\CategoryRegistry: no category registered for table "pages". Key was already registered. 
+Sun, 04 Nov 2018 10:57:21 +0100 [WARNING] request="621294e8c5b13" component="TYPO3.CMS.Core.Utility.ExtensionManagementUtility": TYPO3\CMS\Core\Category\CategoryRegistry: no category registered for table "sys_file_metadata". Key was already registered. 
+Sun, 04 Nov 2018 10:57:21 +0100 [WARNING] request="621294e8c5b13" component="TYPO3.CMS.Core.Utility.ExtensionManagementUtility": TYPO3\CMS\Core\Category\CategoryRegistry: no category registered for table "tt_content". Key was already registered. 
